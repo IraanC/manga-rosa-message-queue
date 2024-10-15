@@ -19,12 +19,5 @@ Este projeto implementa um sistema de filas de mensagens.
 * [ChatGPt](https://chatgpt.com/)
 <br> Serviu de ajuda na implemetação  e tratamento de erros. <br>
 * [Gemini](https://gemini.google.com/app/d162d29eb332ac62)
-<br> Serviu de ajuda na criação de logíca, funcionamento dos comandos em java e o funcionamento de um message queue.   
+<br> Serviu de ajuda na criação de logíca, sobre o funcionamento dos comandos em java e do message queue.   
 
-
-
-
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
